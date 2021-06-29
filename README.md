@@ -1,5 +1,3 @@
-port-scanner
-
 # pyportscanner
 
 pyportscanner is a basic port scanning tool written in python3 that allows to enumerate valid ports for hosts it uses multi-threading (concurrent.futures) for fast scanning
